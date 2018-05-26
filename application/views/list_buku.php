@@ -14,8 +14,8 @@
     <div class="row">
         <div class="col-12">
             <div class="col-md-12">
-                <h1>Ebook
-                    <small>List</small>
+                <h1>Data Mahasiswa
+                    
                     <div class="float-right"><a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#Modal_Add"><span class="fa fa-plus"></span> Add New</a></div>
                 </h1>
             </div>
